@@ -10,6 +10,7 @@ It is developed in JavaScript at repl.it in Node.js .
  1. Node.js
  1. CHALK
 
+[Link to the site.](https://replit.com/@jayprakash8/project-two?embed=1&embed=1)
 
 ### Screenshot
 
